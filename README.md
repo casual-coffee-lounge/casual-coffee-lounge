@@ -1,16 +1,17 @@
-## Hi there 👋
+# Casual Coffee Lounge — Premium Website Prototype
 
-<!--
-**casual-coffee-lounge/casual-coffee-lounge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Included
+- Premium responsive one-page website
+- Editorial hospitality visual direction
+- Interactive menu categories
+- Mobile navigation
+- Scroll reveal + progress indicator
+- Uses the supplied reference images as temporary assets
 
-Here are some ideas to get you started:
+## Run
+Open `index.html` in a modern browser.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Important
+The supplied screenshots are reference material. For a production launch, replace them with original high-resolution photography and the official brand logo assets.
+
+The menu content is transcribed from the supplied screenshots and should be verified against the cafe's current prices before launch.
